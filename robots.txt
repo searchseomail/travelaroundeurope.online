@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://travelaroundeurope.online/sitemap.txt
